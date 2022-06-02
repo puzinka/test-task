@@ -44,3 +44,7 @@
 В файле **filter.js** находится функция-предикат, отвечающая за фильтрацию курсов.
 
 Файл **solution.js** отвечает за вывод подходящих курсов для каждого варианта фильтра.
+
+## Ссылка на GitHub Pages
+
+https://puzinka.github.io/githubio/test-task/src/index.html
